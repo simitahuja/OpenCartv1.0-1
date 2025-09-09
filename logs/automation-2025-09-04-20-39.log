@@ -1,0 +1,51 @@
+07:49:47.891 [main] INFO  testCases.TC001_AccountRegisterationTest - **** Starting TC001_AccountRegisterationTest ****
+07:49:47.998 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicked on my account
+07:49:48.555 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicked on my Register
+07:49:48.557 [main] INFO  testCases.TC001_AccountRegisterationTest - Providing customer details
+07:49:50.175 [main] INFO  testCases.TC001_AccountRegisterationTest - Validating the expected message
+07:49:50.216 [main] INFO  testCases.TC001_AccountRegisterationTest - Test finished
+12:52:38.598 [main] INFO  testCases.TC001_AccountRegisterationTest - **** Starting TC001_AccountRegisterationTest ****
+12:52:38.692 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicked on my account
+12:52:39.238 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicked on my Register
+12:52:39.243 [main] INFO  testCases.TC001_AccountRegisterationTest - Providing customer details
+12:52:40.839 [main] INFO  testCases.TC001_AccountRegisterationTest - Validating the expected message
+12:52:40.882 [main] INFO  testCases.TC001_AccountRegisterationTest - Test finished
+12:53:21.822 [main] INFO  testCases.TC001_AccountRegisterationTest - **** Starting TC001_AccountRegisterationTest ****
+12:53:21.945 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicked on my account
+12:53:22.370 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicked on my Register
+12:53:22.373 [main] INFO  testCases.TC001_AccountRegisterationTest - Providing customer details
+12:53:23.190 [main] INFO  testCases.TC001_AccountRegisterationTest - Validating the expected message
+12:53:23.992 [main] INFO  testCases.TC001_AccountRegisterationTest - Test finished
+12:56:54.223 [main] INFO  testCases.TC001_AccountRegisterationTest - **** Starting TC001_AccountRegisterationTest ****
+12:56:54.309 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicked on my account
+12:56:54.812 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicked on my Register
+12:56:54.815 [main] INFO  testCases.TC001_AccountRegisterationTest - Providing customer details
+12:56:56.152 [main] INFO  testCases.TC001_AccountRegisterationTest - Validating the expected message
+12:56:56.188 [main] INFO  testCases.TC001_AccountRegisterationTest - Test finished
+12:56:58.387 [main] INFO  testCases.TC001_AccountRegisterationTest - **** Starting TC001_AccountRegisterationTest ****
+12:56:58.487 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicked on my account
+12:56:58.931 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicked on my Register
+12:56:58.932 [main] INFO  testCases.TC001_AccountRegisterationTest - Providing customer details
+12:57:00.352 [main] INFO  testCases.TC001_AccountRegisterationTest - Validating the expected message
+12:57:00.394 [main] INFO  testCases.TC001_AccountRegisterationTest - Test finished
+12:57:31.469 [TestNG-tests-1] INFO  testCases.TC001_AccountRegisterationTest - **** Starting TC001_AccountRegisterationTest ****
+12:57:31.516 [TestNG-tests-2] INFO  testCases.TC001_AccountRegisterationTest - **** Starting TC001_AccountRegisterationTest ****
+12:57:31.644 [TestNG-tests-1] INFO  testCases.TC001_AccountRegisterationTest - Clicked on my account
+12:57:31.691 [TestNG-tests-2] INFO  testCases.TC001_AccountRegisterationTest - Clicked on my account
+12:57:32.197 [TestNG-tests-1] INFO  testCases.TC001_AccountRegisterationTest - Clicked on my Register
+12:57:32.199 [TestNG-tests-1] INFO  testCases.TC001_AccountRegisterationTest - Providing customer details
+12:57:32.246 [TestNG-tests-2] INFO  testCases.TC001_AccountRegisterationTest - Clicked on my Register
+12:57:32.247 [TestNG-tests-2] INFO  testCases.TC001_AccountRegisterationTest - Providing customer details
+12:57:34.479 [TestNG-tests-2] INFO  testCases.TC001_AccountRegisterationTest - Validating the expected message
+12:57:34.526 [TestNG-tests-2] INFO  testCases.TC001_AccountRegisterationTest - Test finished
+12:57:34.687 [TestNG-tests-1] INFO  testCases.TC001_AccountRegisterationTest - Validating the expected message
+12:57:34.737 [TestNG-tests-1] INFO  testCases.TC001_AccountRegisterationTest - Test finished
+13:32:39.860 [main] INFO  testCases.TC001_AccountRegisterationTest - **** Starting TC001_AccountRegisterationTest ****
+13:32:40.258 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicked on my account
+13:32:40.720 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicked on my Register
+13:32:40.722 [main] INFO  testCases.TC001_AccountRegisterationTest - Providing customer details
+13:32:42.284 [main] INFO  testCases.TC001_AccountRegisterationTest - Validating the expected message
+13:32:42.332 [main] INFO  testCases.TC001_AccountRegisterationTest - Test finished
+20:35:24.750 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_Test*****
+20:36:22.709 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_Test*****
+20:36:24.105 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_Test*****
